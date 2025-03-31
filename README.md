@@ -1,23 +1,31 @@
-# Projetos de Sistemas Embarcados - EmbarcaTech 2025
+# EmbarcaTech - HBr
 
-Autor: **(insira seu nome)**
+Autor: **Pedro Sampaio Dias Rocha**
 
-Curso: Residência Tecnológica em Sistemas Embarcados
-
-Instituição: EmbarcaTech - HBr
-
-Campinas, março de 2025
+Brasília - 2025
 
 ---
 
-## Sobre este repositório
+## 💡 Objetivo
 
-Este repositório reúne os projetos desenvolvidos ao longo do curso de Sistemas Embarcados, durante a etapa de residência.  
-
-Cada projeto tem sua própria pasta, contendo o código-fonte, documentação e recursos visuais.
+Este repositório foi criado para reunir e expor os projetos desenvolvidos durante o curso de Sistemas Embarcados.
 
 ---
 
-## O que fazer com este arquivo
+## 📂 Lista de Projetos
 
-Ao fazer o *fork* do repositório, o aluno está livre para modificar este arquivo como quiser dentro do seu próprio *fork*.
+| Projeto | Descrição |
+|---------|-----------|
+| [Galton Board](./projetos/galton_board) | - |
+| [Robo equilibrista](./projetos/galton_board) | - |
+| [Sintetizador de audio](./projetos/galton_board) | - |
+
+---
+
+##  📝 Diário de Bordo (Reflexões e Aprendizados)
+
+Nesse tópico, compartilho semanalmente os aprendizados e reflexões extraídos ao longo do curso.
+
+### Semana 1 (31/03/2025)
+
+- Conteúdo e reflexões serão atualizados em breve!
