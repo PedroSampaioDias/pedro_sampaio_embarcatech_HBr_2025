@@ -46,17 +46,6 @@ O projeto tem como objetivo demonstrar a aquisição de dados de temperatura uti
 
 ---
 
-🖼️ **Imagens e vídeos**  
-- Circuito Montado:  
-  ![Circuito Montado](imagens/circuito.jpg)  
-- Display em Ação:  
-  ![Display OLED mostrando a temperatura](imagens/display.jpg)  
-- Demonstração (vídeo):  
-  [Assista ao vídeo de demonstração](videos/demonstracao.mp4)  
-(Substitua os caminhos e links de imagens/vídeos conforme necessário.)
-
----
-
 📈 **Resultados esperados ou observados**  
 - Exibição da Temperatura:  
   O display OLED mostrará a temperatura em graus Celsius, calculada a partir do sensor interno do Pico e filtrada por uma média móvel de 50 amostras. O valor exibido será um número inteiro, evidenciando a estabilidade da medição após a filtragem.

@@ -43,14 +43,6 @@ Desenvolver um programa em C que leia os valores analógicos convertidos digital
 
 ---
 
-🖼️ **Imagens e vídeos**  
-- **Circuito Montado:**  
-  (Insira aqui uma foto do circuito, por exemplo: `![Circuito Montado](link_para_imagem_do_circuito)`)
-- **Vídeo de Demonstração:**  
-  (Insira o link para um vídeo de demonstração, por exemplo: `[Vídeo no YouTube](link_para_video)`)
-
----
-
 📈 **Resultados esperados ou observados**  
 - **Display OLED:**  
   - Linha 1: Exibição dos valores de X e Y, por exemplo:  

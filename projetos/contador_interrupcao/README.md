@@ -59,15 +59,6 @@ Demonstrar o uso de interrupções em sistemas embarcados para implementar um co
 
 ---
 
-🖼️ **Imagens e vídeos**  
-- **Display OLED em Ação:**  
-  ![Display OLED](link_para_imagem_display)  
-- **Vídeo de Demonstração:**  
-  [Assista ao vídeo](link_para_video)  
-*(Substitua os links acima pelas URLs reais das imagens e vídeos demonstrativos.)*
-
----
-
 📈 **Resultados esperados ou observados**  
 - **Resultado Esperado:**  
   - Ao pressionar o Botão A, o contador inicia a contagem regressiva a partir de 9, decrementando a cada segundo até 0.  
